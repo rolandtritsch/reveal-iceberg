@@ -1,0 +1,116 @@
+#+title: About gardens and icebergs
+#+subtitle: How to make sure that the iceberg does not hit the garden
+#+date: <2020-05-15>
+#+author: Roland Tritsch
+#+email: roland@community.com
+#+options: timestamp:t date:nil title:t author:t
+#+options: toc:nil num:nil
+#+reveal_theme: beige
+#+reveal_init_options: width:"80%"
+
+* Software Engineering
+
+  #+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+  - [[https://en.wikipedia.org/wiki/Samuel_Beckett_Bridge][Samuel Beckett Bridge]]
+  - This is Software Engineering! Right?
+  - Plan it, Build it, Use it!!!
+  #+REVEAL_HTML: </div>
+
+  #+REVEAL_HTML: <div class="column" style="float:right; width: 50%"><img src="./images/bridge.png"/></div>
+
+* Software Engineering
+
+  #+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+  - [[https://en.wikipedia.org/wiki/Samuel_Beckett_Bridge][Samuel Beckett Bridge]]
+  - This is Software Engineering! Right?
+  - Plan it, Build it, Use it!!!
+  #+REVEAL_HTML: </div>
+
+  #+REVEAL_HTML: <div class="column" style="float:right; width: 50%"><img src="./images/bridge-bad.png"/></div>
+
+* Software Gardening
+
+  #+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+  - Develop and idea how the garden needs to look like ...
+  - Put a couple of seats into the ground (the right kind of seats in the right place) ...
+  - ... and then work very hard to make it grow (lot's of water and fertilizer)!
+  #+REVEAL_HTML: </div>
+
+* Software Gardening
+
+  #+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+  - Develop and idea how the garden needs to look like ...
+  - Put a couple of seats into the ground (the right kind of seats in the right place) ...
+  - ... and then work very hard to make it grow (lot's of water and fertilizer)!
+  #+REVEAL_HTML: </div>
+
+  #+REVEAL_HTML: <div class="column" style="float:right; width: 50%"><img src="./images/jungle.png"/></div>
+
+* Software Gardening
+
+  #+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+  - Develop and idea how the garden needs to look like ...
+  - Put a couple of seats into the ground (the right kind of seats in the right place) ...
+  - ... and then work very hard to make it grow (lot's of water and fertilizer)!
+  #+REVEAL_HTML: </div>
+
+  #+REVEAL_HTML: <div class="column" style="float:right; width: 50%"><img src="./images/jungle-bad.png"/></div>
+
+* Software Gardening
+
+  #+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+  - What you really want is this: [[https://powerscourt.com/][Powerscourt Garden]]
+  - Nice Architecture. Well implemented. Well maintained.
+  #+REVEAL_HTML: </div>
+
+  #+REVEAL_HTML: <div class="column" style="float:right; width: 50%"><img src="./images/garden.png"/></div>
+
+* Software Gardening
+
+  #+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+  - What you really want is this: [[https://powerscourt.com/][Powerscourt Garden]]
+  - Nice Architecture. Well implemented. Well maintained.
+  - How do we get this? How do we get there?
+  #+REVEAL_HTML: </div>
+
+  #+REVEAL_HTML: <div class="column" style="float:right; width: 50%"><img src="./images/garden-good.png"/></div>
+
+* The Iceberg
+
+** By getting really good at managing the Iceberg!
+   - Developing awareness & Managing expectations
+   - PS: That's just one of the things that you need to do to make Software Gardening work
+
+** What's the Iceberg?
+   - Initially you have 10 developers and 8 of them work on features!
+   - Some time later you have 100 developers and 25 work on features!
+   - 10 times more people. 3 times more features. WTF!!!
+
+** What's the Iceberg? 
+   #+REVEAL_HTML: <div class="column" style="float:left; width: 80%">
+   - 80% of the work is under water!!!
+   - Moving from building a solution to **owning** a solution
+     - Owning code is expensive!
+   - Moving from 10 people to 100 people is expensive!
+     - Hiring, on-boarding, churn (100%), ..., communication, ...
+   - Moving from 100 customers to 5000 customers is expensive!
+     - Higher expectations wrt. uptime, processes, professionalism, ...
+   #+REVEAL_HTML: </div>
+
+   #+REVEAL_HTML: <div class="column" style="float:right; width: 20%"><img src="./images/iceberg.png" height="200%"/></div>
+
+* Next Step
+
+** Embrace Software Gardening
+** Embrace the Iceberg
+** Don't fight it!
+
+* Q&A
+
+* Resources
+
+  - [[https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X][The Pracmatic Programmer]]
+	- [[http://www.chrisaitchison.com/2011/05/03/you-are-not-a-software-engineer][You are not an engineer]]
+	- [[http://www.artima.com/intv/garden.html][About Gardening]]
+	- [[http://softwaregarden.io/manifesto][The Software Gardening Manifesto]]
+	- [[http://www.tritsch.org/2013/02/16/about-broken-windows-and-software.html][About gardens and windows]]
