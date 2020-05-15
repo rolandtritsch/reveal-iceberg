@@ -114,3 +114,4 @@
 	- [[http://www.artima.com/intv/garden.html][About Gardening]]
 	- [[http://softwaregarden.io/manifesto][The Software Gardening Manifesto]]
 	- [[http://www.tritsch.org/2013/02/16/about-broken-windows-and-software.html][About gardens and windows]]
+  - [[https://martinfowler.com/bliki/TechnicalDebt.html][What is Tech Debt?]] 
