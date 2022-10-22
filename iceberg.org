@@ -2,7 +2,7 @@
 #+subtitle: How to make sure that the iceberg does not hit the garden
 #+date: <2020-05-15>
 #+author: Roland Tritsch
-#+email: roland@community.com
+#+email: roland@tritsch.email
 #+options: timestamp:t date:nil title:t author:t
 #+options: toc:nil num:nil
 #+reveal_theme: beige
@@ -70,10 +70,19 @@
   #+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
   - What you really want is this: [[https://powerscourt.com/][Powerscourt Garden]]
   - Nice Architecture. Well implemented. Well maintained.
-  - How do we get this? How do we get there?
   #+REVEAL_HTML: </div>
 
   #+REVEAL_HTML: <div class="column" style="float:right; width: 50%"><img src="./images/garden-good.png"/></div>
+
+* Software Gardening
+
+  #+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+  - What you really want is this: [[https://powerscourt.com/][Powerscourt Garden]]
+  - Nice Architecture. Well implemented. Well maintained.
+  - How do we get this? How do we get there?
+  #+REVEAL_HTML: </div>
+
+  #+REVEAL_HTML: <div class="column" style="float:right; width: 50%"><img src="./images/garden.png"/></div>
 
 * The Iceberg
 
